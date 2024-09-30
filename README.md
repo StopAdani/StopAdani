@@ -3,7 +3,7 @@
 ## Project Overview
 **Stop Adani** is an open-source project aimed at informing the Kenyan public and the broader African community about the atrocities committed by the Adani Group. Our goal is to raise awareness and mobilize action against environmental and human rights violations.
 
-[Project Stop Adani](https://res.cloudinary.com/kalikimanzi/image/upload/v1727691514/34545c83-13c0-41b9-8db1-f36ae66db55f_agleyu.jpg)
+![Project Stop Adani](https://res.cloudinary.com/kalikimanzi/image/upload/v1727691514/34545c83-13c0-41b9-8db1-f36ae66db55f_agleyu.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
